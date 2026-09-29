@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://zh.machongjob.cn/sitemap.xml
